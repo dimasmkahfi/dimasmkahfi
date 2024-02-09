@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dimasmkahfi
 - 👀 I’m interested in IoT
-- 🌱 I’m currently learning Lumen And Android
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Lumen And Flutter
+- 💞️ I’m looking to collaborate on Integrating IoT Devices Wit Life
 
 <!---
 dimasmkahfi/dimasmkahfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
